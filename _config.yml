@@ -1,4 +1,3 @@
-layout_spectrum: 0.9544889882672578
 typography_spectrum: 0.558634176151827
 color:
   brandStrength: 0.2581438652705401
@@ -11,5 +10,7 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9544889882672578
 name: 'Diosa '
 title: Diosa Dance Shoes
+description: Salseras who love to shine
