@@ -1,0 +1,14 @@
+layout_spectrum: 0.9544889882672578
+typography_spectrum: 0.558634176151827
+color:
+  brandStrength: 0.2581438652705401
+  lightness: 0.29050096147693694
+  saturation: 0.7287967344745994
+  rhythmicContrast: 0.1687209454830736
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+name: 'Diosa '
